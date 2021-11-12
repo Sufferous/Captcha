@@ -14,8 +14,7 @@ size = 7
 
 captcha.generate_captcha(size)
 ```
-This will create a `captcha.png` file (which is the captcha) and will return the code!
-(The code length is determined by the size argument (default value: 6))
+###### This will create a `captcha.png` file (which is the captcha) and will return the code! (The code length is determined by the size argument (default value: 6))
 ------
 ### Results:
 ![Captcha with code: NSBWI6](https://github.com/TheMaligator/Captcha/blob/main/captcha.png?raw=true "NSBWI6")
