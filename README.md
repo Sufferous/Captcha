@@ -2,6 +2,7 @@
 ------
 ### How to use:
 You can either modify the code or import the `captcha.py` directly into your project.
+
 ------
 ### Example usage:
 Generate a captcha with 7 characters:
