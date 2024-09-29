@@ -1,12 +1,10 @@
-## This is a simple captcha generator created in python
+## Simple captcha generator written in python
 ------
 ### How to use:
 You can either modify the code or import the `captcha.py` directly into your project.
-
-(Note: the captcha.py file must be in the same directory!)
 ------
 ### Example usage:
-Generate a captcha with 6 characters:
+Generate a captcha with 7 characters:
 ```python
 import captcha
 
@@ -20,5 +18,5 @@ captcha.generate_captcha(size)
 ![Captcha with code: NSBWI6](https://github.com/TheMaligator/Captcha/blob/main/captcha.png?raw=true "NSBWI6")
 ------
 ### Final thoughts:
-This captcha generator probably isn't secure enough to use in production environments, so please don't try.
-Also, feel free to use this code and modify it in any way, and don't feel obligated to credit me, although it would be nice :)
+This captcha generator isn't secure enough to use in production environments, so please, for the love of god, don't try.
+It was created in order to experiment with image manipulation in python.
